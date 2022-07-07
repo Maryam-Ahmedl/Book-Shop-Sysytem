@@ -1,0 +1,4 @@
+﻿  EMS_BookShop.cpp
+C:\Users\maryam\source\repos\BOOK_shop(EMS)\BOOK_shop(EMS)\EMS_BookShop.cpp(10,32): warning C4081: expected 'newline'; found '.'
+C:\Users\maryam\source\repos\BOOK_shop(EMS)\BOOK_shop(EMS)\EMS_BookShop.cpp(55,11): warning C4101: 'tempprice': unreferenced local variable
+  BOOK_shop(EMS).vcxproj -> C:\Users\maryam\source\repos\BOOK_shop(EMS)\Debug\BOOK_shop(EMS).exe
